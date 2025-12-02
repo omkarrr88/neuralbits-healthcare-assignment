@@ -9,7 +9,6 @@ Python Query Challenge for the Internship position.
 
 1. **Healthcare Database System**
 2. **7 Analytical SQL Queries**
-3. **Live Project Demonstrations**
 
 ---
 
