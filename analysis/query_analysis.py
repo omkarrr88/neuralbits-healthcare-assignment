@@ -8,7 +8,7 @@ import sqlite3
 import pandas as pd
 import os
 
-DB_FILE = 'healthcare.db'
+DB_FILE = r"C:\Users\devil\OneDrive\Desktop\neuralbits healthcare assignment\database_generation\healthcare.db"
 
 if not os.path.exists(DB_FILE):
     print(f"ERROR: {DB_FILE} not found!")
